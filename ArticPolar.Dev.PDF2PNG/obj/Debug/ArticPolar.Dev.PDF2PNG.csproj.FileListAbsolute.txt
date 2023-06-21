@@ -1,0 +1,7 @@
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.PDF2PNG\ArticPolar.Dev.PDF2PNG\obj\Debug\ArticPolar.Dev.PDF2PNG.csprojResolveAssemblyReference.cache
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.PDF2PNG\ArticPolar.Dev.PDF2PNG\bin\Debug\ArticPolar.Dev.PDF2PNG.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.PDF2PNG\ArticPolar.Dev.PDF2PNG\bin\Debug\ArticPolar.Dev.PDF2PNG.pdb
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.PDF2PNG\ArticPolar.Dev.PDF2PNG\bin\Debug\Ghostscript.NET.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.PDF2PNG\ArticPolar.Dev.PDF2PNG\bin\Debug\Ghostscript.NET.xml
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.PDF2PNG\ArticPolar.Dev.PDF2PNG\obj\Debug\ArticPolar.Dev.PDF2PNG.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.PDF2PNG\ArticPolar.Dev.PDF2PNG\obj\Debug\ArticPolar.Dev.PDF2PNG.pdb

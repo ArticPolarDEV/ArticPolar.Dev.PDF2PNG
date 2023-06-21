@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>ArticPolar.Dev.PDF2PNG</id>
+    <version>1.0.0</version>
+    <title>ArticPolar.Dev.PDF2PNG</title>
+    <authors>ArticPolar Apps</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/JoseLucas1303/ArticPolar.Dev.PDF2PNG/</projectUrl>
+    <description>Convert PDF with one or more pages to PNG</description>
+    <releaseNotes>First Version.</releaseNotes>
+    <copyright>Copyright © ArticPolar 2023</copyright>
+    <tags>PDF PNG convert conversion ArticPolar</tags>
+  </metadata>
+</package>
